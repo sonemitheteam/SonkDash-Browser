@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>SonkDash</ShortName>
+  <Description>Navegador web supersónico SonkDash con SonkShield y Google Grounding</Description>
+  <Tags>sonkdash search browser speed</Tags>
+  <Contact>sonemi8890@gmail.com</Contact>
+  <Url type="text/html" template="https://ais-dev-3top4aij2hais263w2toqe-448953145144.us-east1.run.app/?q={searchTerms}" />
+  <Url type="application/x-suggestions+json" template="https://ais-dev-3top4aij2hais263w2toqe-448953145144.us-east1.run.app/api/suggest?q={searchTerms}" />
+  <Image height="64" width="64" type="image/png">https://ais-dev-3top4aij2hais263w2toqe-448953145144.us-east1.run.app/assets/aistudio/sonkdash_logo_clean.png</Image>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+</OpenSearchDescription>

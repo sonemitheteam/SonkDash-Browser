@@ -1,0 +1,6 @@
+{
+  "name": "SonkDash Browser",
+  "description": "Navegador web ultra veloz con bloqueo de anuncios opcional (SonkShield), integración con Gmail, búsqueda con Google Search en tiempo real y soporte para configurarse como navegador predeterminado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
